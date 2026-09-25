@@ -1,3 +1,3 @@
-## Hello!
+## Hello Rugby Comrades!
 
-DC Revolution players can access the portal via https://www.dcrevolution.com
+DC Revolution players can now access the player portal via https://www.dcrevolution.com
