@@ -1,3 +1,3 @@
 ## Hello!
 
-Access the portal at https://resources.dcrevolution.com
+DC Revolution players can access the portal via https://www.dcrevolution.com
